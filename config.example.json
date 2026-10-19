@@ -1,0 +1,4 @@
+{
+  "scenarioId": "status-check",
+  "expectedStatus": "Ready for review"
+}
